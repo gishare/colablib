@@ -18,5 +18,5 @@ setup(
     author='Furqanil Taqwa',
     author_email='furqanil.taqwa@gmail.com',
     description='A utility library for Google Colab',
-    url='https://github.com/Linaqruf/colablib',
+    url='https://github.com/gishare/colablib',
 )
